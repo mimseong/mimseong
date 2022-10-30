@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mimseong)](https://solved.ac/yopark/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mimseong)](https://solved.ac/mimseong/)
 
 ![Memome Profile](https://memome-readme.herokuapp.com/v1/layout?id=jindo)
 
