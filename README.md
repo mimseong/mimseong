@@ -19,4 +19,4 @@
 
 ### 방명록 남기기
 
-[![Memome Profile](https://readme.memome.be/v1/jindo123)](https://memome.be/jindo123)
+[![Memome Profile](https://readme.memome.be/v1/seongmin)](https://memome.be/seongmin)
