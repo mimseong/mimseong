@@ -4,9 +4,11 @@
 
 ### Skills
 
-- Scala
-- Typescript, Javascript
+- Scala, Typescript, Javascript, Python
 - Docker, k8s
+- MySQL, MongoDB
+- ELK
+- Kafka
 
 ### Work Experience
 
