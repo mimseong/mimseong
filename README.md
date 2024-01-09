@@ -8,7 +8,7 @@
 - Docker, k8s
 - MySQL, MongoDB
 - ELK
-- Kafka
+- Kafka, Hadoop, Spark
 
 ### Work Experience
 
