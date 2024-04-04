@@ -7,7 +7,7 @@
 - Scala, Typescript, Javascript, Python
 - Docker, k8s
 - MySQL, MongoDB
-- ELK
+- ELK, Airflow
 - Kafka, Hadoop, Spark
 
 ### Work Experience
