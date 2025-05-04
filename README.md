@@ -12,9 +12,19 @@
 
 ### Work Experience
 
-- 🍫 Kakao 2021.11 ~ Server Developer
-- 🥯 Bagelcode 2020.12 ~ 2021.11 Server Developer
+**Software Engineer, Data Engineer**
+- Kakao, API Platform Team
+- Pangyo, Republic of Korea
+- Nov 2021 – Present
+
+**Junior Software Engineer**
+- Bagelcode, Jackpotjoy Team
+- Seoul, Republic of Korea
+- Dec 2020 – Nov 2021
 
 ### Education
 
-- 🎓 2017.03 - 2021.08 Bachelor of Computer Engineering
+**Computer Engineering, Bachelor of Science in Engineering**
+- Changwon National University, Changwon, Republic of Korea
+- Cumulative GPA: 3.86/4.50
+- Mar 2017 – Aug 2021
