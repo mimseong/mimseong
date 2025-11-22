@@ -1,7 +1,5 @@
 ## Seongmin Park 
 
-
-
 ### Skills
 
 - Scala, Typescript, Javascript, Python
@@ -13,12 +11,12 @@
 ### Work Experience
 
 **Software Engineer, Data Engineer**
-- Kakao, API Platform Team
+- Kakao
 - Pangyo, Republic of Korea
 - Nov 2021 – Present
 
 **Junior Software Engineer**
-- Bagelcode, Jackpotjoy Team
+- Bagelcode
 - Seoul, Republic of Korea
 - Dec 2020 – Nov 2021
 
